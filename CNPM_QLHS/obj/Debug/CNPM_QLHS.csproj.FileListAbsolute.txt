@@ -1,0 +1,17 @@
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\bin\Debug\CNPM_QLHS.exe.config
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\bin\Debug\CNPM_QLHS.exe
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\bin\Debug\CNPM_QLHS.pdb
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.csprojAssemblyReference.cache
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.GiaoVien.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.Properties.Resources.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.csproj.GenerateResource.cache
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.csproj.CoreCompileInputs.cache
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.exe
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.pdb
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.MonHoc.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.HocSinh.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.Lop.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.BangDiem.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.CapNhapDiem.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.DangKi.resources
+D:\Kì 1 năm 3\Công nghệ phần mềm\CNPM_QLHS\CNPM_QLHS\obj\Debug\CNPM_QLHS.ThemLop.resources
